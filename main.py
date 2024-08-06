@@ -5,6 +5,8 @@ import openai
 
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 
+STARTER = 400
+LEGEND = 600
 
 app = Flask(__name__)
 
@@ -37,7 +39,7 @@ def get_starter_pokemon():
             base_stats = pokemon_data['stats']
             base_stat_total = sum(stat['base_stat'] for stat in base_stats)
 
-            if base_stat_total > 450:
+            if base_stat_total > STARTER:
                 continue
 
             pokemon_name = pokemon_data['name']
