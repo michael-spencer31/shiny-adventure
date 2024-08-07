@@ -1,7 +1,7 @@
-Name, Power, Type, Stat, Effect
-Ember, 40, Fire, Special, 20% to burn
-Tackle, 35, Normal, Physical, None
-Bubble, 20, Water, Special, None
+Name, Power, Type, Stat, Effect, Flavour
+Ember, 40, Fire, Special, 20% to burn, A small flame is shot at the target
+Tackle, 35, Normal, Physical, None, The user rams into the target
+Bubble, 20, Water, Special, None, Small bubbles are shot at the target
 Razor Leaf, 55, Grass, Physical, None
 Peck, 20, Flying, Physical, None
 Shadow Ball, 80, Ghost, Special, None
@@ -45,7 +45,7 @@ Waterfall, 80, Water, Physical, None
 Shadow Claw, 80, Ghost, Physical, None
 Ice Fang, 55, Ice, Physical, None
 Avalanche, 90, Ice, Physical, None
-Charge Beam, 40, Electric, Special, None
+Charge Beam, 40, Electric, Speacial, None
 Wild Charge, 90, Electric, Physical, None
 Counter, 50, Fighting, Physical, None
 Dynamic Punch, 90, Fighting, Physical, None
@@ -54,3 +54,4 @@ Incinerate, 30, Fire, Special, 20% to burn
 Lick, 10, Ghost, Physical, 50% to paralyze
 Sludge Bomb, 80, Poison, Special, 20% to poison
 Gunk Shot, 130, Poison, Special, 40% to poison
+Nor'easter Blast, 160, Ice, Special, -2 Special Attack -2 Foe Speed, A powerful frigid ice storm 
