@@ -2,56 +2,28 @@ Name, Power, Type, Stat, Effect, Flavour
 Ember, 40, Fire, Special, 20% to burn, A small flame is shot at the target
 Tackle, 35, Normal, Physical, None, The user rams into the target
 Bubble, 20, Water, Special, None, Small bubbles are shot at the target
-Razor Leaf, 55, Grass, Physical, None
-Peck, 20, Flying, Physical, None
-Shadow Ball, 80, Ghost, Special, None
-Outrage, 110, Dragon, Physical, -2 to Attack
-Earthquake, 100, Ground, Physical, None
-Surf, 95, Water, Special, None
-Thunderbolt, 90, Electric, Special, 20% to paralyze
-Flamethrower, 90, Fire, Special, 20% to burn
-Horn Attack, 65, Normal, Physical, None
-Ice Beam, 90, Ice, Special, None
-Leech Life, 80, Bug, Physical, None
-Crunch, 80, Dark, Physical, None
-Close Combat, 110, Fighting, Physical, -2 to Defense
-Moonblast, 100, Fairy, Special, None
-Poison Sting, 25, Poison, Special, 20% to poison
-Rock Throw, 80, Rock, Physical, None
-Iron Tail, 100, Steel, Physical, None
-Confusion, 45, Psychic, Special, None
-Future Sight, 110, Psychic, Special, None
-Zen Headbutt, 80, Psychic, Physical, None
-Hyber Beam, 150, Normal, Physical, -4 to Attack
-Thunder Shock, 20, Electric, Special, 10% to paralyze
-Rock Slide, 80, Rock, Physical, None
-Double Iron Bash, 70, Steel, Physical, None
-Bullet Bunch, 10, Steel, Physical, None
-Flash Cannon, 100, Steel, Special, None
-Smack Down, 20, Rock, Physical, None
-Stone Edge, 100, Rock, Physical, None
-Dragon Tail, 15, Dragon, Physical, None
-Breaking Swipe, 35, Dragon, Physical, None
-Bite, 10, Dark, Physical, -2 to Foe Defense
-Dark Pulse, 80, Dark, Special, None
-Rock Smash, 15, Fighting, Physical, +2 to Attack
-High Horsepower, 110, Ground, Physical, None
-Draco Meteor, 150, Dragon, Physical, -2 to Special
-Charm, 20, Fairy, Special, +2 to Attack
-Dazzling Gleam, 120, Fairy, Special, None
-Aerial Ace, 55, Flying, Special, None
-Precipice Blades, 130, Ground, Physical, -2 to Attack
-Waterfall, 80, Water, Physical, None
-Shadow Claw, 80, Ghost, Physical, None
-Ice Fang, 55, Ice, Physical, None
-Avalanche, 90, Ice, Physical, None
-Charge Beam, 40, Electric, Speacial, None
-Wild Charge, 90, Electric, Physical, None
-Counter, 50, Fighting, Physical, None
-Dynamic Punch, 90, Fighting, Physical, None
-Spacial Rend, 160, Dragon, Special, -4 to Attack -2 to Defense
-Incinerate, 30, Fire, Special, 20% to burn
-Lick, 10, Ghost, Physical, 50% to paralyze
-Sludge Bomb, 80, Poison, Special, 20% to poison
-Gunk Shot, 130, Poison, Special, 40% to poison
+Razor Leaf, 55, Grass, Physical, None, Sharp leaves are swiftly flung at the target cutting through with a razor-like edge
+Peck, 20, Flying, Physical, None, The user jabs at the target with its sharp beak delivering a quick pecking strike
+Shadow Ball, 80, Ghost, Special, None, A dark eerie sphere of ghostly energy is hurled at the target
+Outrage, 110, Dragon, Physical, -2 to Attack, The user goes into a frenzied rage to attack
+Earthquake, 100, Ground, Physical, None, The ground shakes violently causing a massive quake
+Surf, 95, Water, Special, None, A massive wave is summoned to crash down on the target
+Thunderbolt, 90, Electric, Special, 20% to paralyze, A bolt of lightning streaks towards the target
+Flamethrower, 90, Fire, Special, 20% to burn, A searing torrent of fire is blasted at the target
+Horn Attack, 65, Normal, Physical, None, The user charges at the target with its sharp horn
+Ice Beam, 90, Ice, Special, None, A beam of intense cold energy is fired at the target
+Leech Life, 80, Bug, Physical, None, A vicious bite
+Crunch, 80, Dark, Physical, None, A vicious bite
+Close Combat, 110, Fighting, Physical, -2 to Defense, The user unleashes a rapid series of fierce punches and kicks
+Moonblast, 100, Fairy, Special, None, A burst of mythical energy is released from the user creating a dazzling beam of lunar light
+Poison Sting, 25, Poison, Special, 20% to poison, The user fires a barrage of tiny poisonous needles at the target injecting venom with each hit
+Rock Throw, 80, Rock, Physical, None, The user throws a large rock at the target
+Iron Tail, 100, Steel, Physical, None, The user swings its metallic tail with great force delivering a crushing blow to the target
+Confusion, 45, Psychic, Special, None, The user releases psychic waves that cause the target to become disoriented and confused
+Future Sight, 110, Psychic, Special, None, The user envisions an impending attack that will strike the target with foreseen accuracy
+Zen Headbutt, 80, Psychic, Physical, None, The user charges at the target with a psychic-powered headbutt using its mental strength to enhance the impact
+Hyber Beam, 150, Normal, Physical, -4 to Attack, A massive beam of energy is fired at the target causing tremendous destruction at the cost of the user's strength
+Thunder Shock, 20, Electric, Special, 10% to paralyze, A quick electric spark is discharged at the target delivering a mild but shocking jolt
+Rock Slide, 80, Rock, Physical, None, The user causes a cascade of rocks to tumble down upon the target burying them in debris
+Double Iron Bash, 70, Steel, Physical, None, The user strikes the target with two powerful iron-coated hits delivering a devastating blow
 Nor'easter Blast, 160, Ice, Special, -2 Special Attack -2 Foe Speed, A powerful frigid ice storm 
